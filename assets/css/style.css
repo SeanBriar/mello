@@ -65,6 +65,10 @@ header {
   padding: 10px;
 }
 
+.boardsHeader {
+  margin-bottom: 30px; 
+}
+
 .container {
   display: flex;
   overflow-x: auto;
